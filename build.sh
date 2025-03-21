@@ -14,5 +14,5 @@ cd ..
 
 # Build the Website
 cd website
-npm i
-npm run build
+pnpm install
+cd ..
